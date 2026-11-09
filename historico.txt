@@ -1,7 +1,10 @@
-HISTÓRICO DE ALTERAÇÕES
+HISTORICO DE ALTERACOES
+
+Projeto: Sistema de Calculadora
 
 Data: 09/11/2026
 
-1. Modificação realizada no arquivo calculadora.py.
-2. Adicionado novo arquivo historico.txt.
+1. Modificacao realizada no arquivo calculadora.py.
+2. Criacao do arquivo historico.txt.
 3. Projeto atualizado utilizando Git e GitHub.
+4. Conflito de versoes identificado e resolvido.
