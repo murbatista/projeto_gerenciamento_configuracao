@@ -1,0 +1,7 @@
+HISTÓRICO DE ALTERAÇÕES
+
+Data: 09/11/2026
+
+1. Modificação realizada no arquivo calculadora.py.
+2. Adicionado novo arquivo historico.txt.
+3. Projeto atualizado utilizando Git e GitHub.
