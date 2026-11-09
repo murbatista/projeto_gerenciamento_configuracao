@@ -1,0 +1,19 @@
+PROJETO: SISTEMA DE CALCULADORA
+
+Objetivo:
+Desenvolver uma calculadora simples utilizando Python.
+
+Funcionalidades:
+- Soma.
+- Subtração.
+- Multiplicação.
+- Divisão.
+
+Tecnologia utilizada:
+Python.
+
+Gerenciamento de Configuração:
+Git e GitHub.
+
+Responsável:
+Estudante de Análise e Desenvolvimento de Sistemas.
